@@ -2,7 +2,7 @@
 <project version="4">
   <component name="DBNavigator.Project.DataEditorManager">
     <record-view-column-sorting-type value="BY_INDEX" />
-    <value-preview-text-wrapping value="true" />
+    <value-preview-text-wrapping value="false" />
     <value-preview-pinned value="false" />
   </component>
   <component name="DBNavigator.Project.DataExportManager">
@@ -46,9 +46,11 @@
   </component>
   <component name="DBNavigator.Project.FileConnectionMappingManager">
     <mapping file-url="file://$PROJECT_DIR$/src/main/resources/random/exam_result_random.sql" connection-id="0226f21e-89f9-44bf-9b7e-baf4f214d92f" session-id="MAIN" current-schema="public" />
-    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/random/subjects_random.sql" connection-id="0226f21e-89f9-44bf-9b7e-baf4f214d92f" session-id="MAIN" current-schema="public" />
     <mapping file-url="file://$PROJECT_DIR$/src/main/resources/create_tables.sql" connection-id="0226f21e-89f9-44bf-9b7e-baf4f214d92f" session-id="MAIN" current-schema="public" />
+    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/random/subjects_random.sql" connection-id="0226f21e-89f9-44bf-9b7e-baf4f214d92f" session-id="MAIN" current-schema="public" />
     <mapping file-url="file://$PROJECT_DIR$/src/main/resources/insert_values.sql" connection-id="0226f21e-89f9-44bf-9b7e-baf4f214d92f" session-id="MAIN" current-schema="public" />
+    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/task5.sql" connection-id="0226f21e-89f9-44bf-9b7e-baf4f214d92f" session-id="MAIN" current-schema="public" />
+    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/task6.sql" connection-id="0226f21e-89f9-44bf-9b7e-baf4f214d92f" session-id="MAIN" current-schema="public" />
     <mapping file-url="file://$PROJECT_DIR$/src/main/resources/random/students_random.sql" connection-id="0226f21e-89f9-44bf-9b7e-baf4f214d92f" session-id="MAIN" current-schema="public" />
   </component>
   <component name="DBNavigator.Project.MethodExecutionManager">

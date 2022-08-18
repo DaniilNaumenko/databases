@@ -50,6 +50,7 @@
     <mapping file-url="file://$PROJECT_DIR$/src/main/resources/random/exam_result_random.sql" connection-id="0226f21e-89f9-44bf-9b7e-baf4f214d92f" session-id="MAIN" current-schema="public" />
     <mapping file-url="file://$PROJECT_DIR$/src/main/resources/create_tables.sql" connection-id="0226f21e-89f9-44bf-9b7e-baf4f214d92f" session-id="MAIN" current-schema="public" />
     <mapping file-url="file://$PROJECT_DIR$/src/main/resources/task9.sql" connection-id="0226f21e-89f9-44bf-9b7e-baf4f214d92f" session-id="MAIN" current-schema="public" />
+    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/task10.sql" connection-id="0226f21e-89f9-44bf-9b7e-baf4f214d92f" session-id="MAIN" current-schema="public" />
     <mapping file-url="file://$PROJECT_DIR$/src/main/resources/random/subjects_random.sql" connection-id="0226f21e-89f9-44bf-9b7e-baf4f214d92f" session-id="MAIN" current-schema="public" />
     <mapping file-url="file://$PROJECT_DIR$/src/main/resources/insert_values.sql" connection-id="0226f21e-89f9-44bf-9b7e-baf4f214d92f" session-id="MAIN" current-schema="public" />
     <mapping file-url="file://$PROJECT_DIR$/src/main/resources/task5.sql" connection-id="0226f21e-89f9-44bf-9b7e-baf4f214d92f" session-id="MAIN" current-schema="public" />
